@@ -113,3 +113,4 @@ In my work as a Fundraising Analyst, one of the most common strategic debates is
  
 The methodology is transferable. The business problem is universal.
 
+*Project by Evelynn Stephens | [LinkedIn](https://www.linkedin.com/in/evelynn-stephens-datascience/) | stephensevelynn@gmail.com*
