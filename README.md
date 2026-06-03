@@ -1,5 +1,5 @@
 # Customer Win-Back Analysis: When Does Re-engagement Cost More Than Acquisition?
- 
+ ![Project Thumbnail](winback_thumbnail.jpg)
 ## Business Problem
  
 Every organization with a customer base faces the same question: when a customer goes quiet, is it worth spending money to win them back — or is it cheaper to find someone new?
